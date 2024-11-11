@@ -16,7 +16,7 @@ namespace TestProject {
 
 
 	/// <summary>
-	/// Сводка для Autorization
+	/// Г‘ГўГ®Г¤ГЄГ  Г¤Г«Гї Autorization
 	/// </summary>
 	public ref class Autorization : public System::Windows::Forms::Form
 	{
@@ -25,13 +25,13 @@ namespace TestProject {
 		{
 			InitializeComponent();
 			//
-			//TODO: добавьте код конструктора
+			//TODO: Г¤Г®ГЎГ ГўГјГІГҐ ГЄГ®Г¤ ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г 
 			//
 		}
 
 	protected:
 		/// <summary>
-		/// Освободить все используемые ресурсы.
+		/// ГЋГ±ГўГ®ГЎГ®Г¤ГЁГІГј ГўГ±ГҐ ГЁГ±ГЇГ®Г«ГјГ§ГіГҐГ¬Г»ГҐ Г°ГҐГ±ГіГ°Г±Г».
 		/// </summary>
 		~Autorization()
 		{
@@ -117,14 +117,14 @@ namespace TestProject {
 
 	private:
 		/// <summary>
-		/// Обязательная переменная конструктора.
+		/// ГЋГЎГїГ§Г ГІГҐГ«ГјГ­Г Гї ГЇГҐГ°ГҐГ¬ГҐГ­Г­Г Гї ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г .
 		/// </summary>
 
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
-		/// Требуемый метод для поддержки конструктора — не изменяйте 
-		/// содержимое этого метода с помощью редактора кода.
+		/// Г’Г°ГҐГЎГіГҐГ¬Г»Г© Г¬ГҐГІГ®Г¤ Г¤Г«Гї ГЇГ®Г¤Г¤ГҐГ°Г¦ГЄГЁ ГЄГ®Г­Г±ГІГ°ГіГЄГІГ®Г°Г  вЂ” Г­ГҐ ГЁГ§Г¬ГҐГ­ГїГ©ГІГҐ 
+		/// Г±Г®Г¤ГҐГ°Г¦ГЁГ¬Г®ГҐ ГЅГІГ®ГЈГ® Г¬ГҐГІГ®Г¤Г  Г± ГЇГ®Г¬Г®Г№ГјГѕ Г°ГҐГ¤Г ГЄГІГ®Г°Г  ГЄГ®Г¤Г .
 		/// </summary>
 		void InitializeComponent(void)
 		{
@@ -170,7 +170,7 @@ namespace TestProject {
 			this->button4->Name = L"button4";
 			this->button4->Size = System::Drawing::Size(238, 41);
 			this->button4->TabIndex = 10;
-			this->button4->Text = L"Зарегистрироваться";
+			this->button4->Text = L"Г‡Г Г°ГҐГЈГЁГ±ГІГ°ГЁГ°Г®ГўГ ГІГјГ±Гї";
 			this->button4->UseVisualStyleBackColor = true;
 			this->button4->Click += gcnew System::EventHandler(this, &Autorization::button4_Click);
 			// 
@@ -183,7 +183,7 @@ namespace TestProject {
 			this->label5->Name = L"label5";
 			this->label5->Size = System::Drawing::Size(59, 26);
 			this->label5->TabIndex = 12;
-			this->label5->Text = L"Имя:";
+			this->label5->Text = L"Г€Г¬Гї:";
 			// 
 			// txtName
 			// 
@@ -205,7 +205,7 @@ namespace TestProject {
 			this->label4->Name = L"label4";
 			this->label4->Size = System::Drawing::Size(107, 26);
 			this->label4->TabIndex = 10;
-			this->label4->Text = L"Фамилия:";
+			this->label4->Text = L"Г”Г Г¬ГЁГ«ГЁГї:";
 			// 
 			// txtFam
 			// 
@@ -226,7 +226,7 @@ namespace TestProject {
 			this->button6->Name = L"button6";
 			this->button6->Size = System::Drawing::Size(88, 32);
 			this->button6->TabIndex = 9;
-			this->button6->Text = L"Назад";
+			this->button6->Text = L"ГЌГ Г§Г Г¤";
 			this->button6->UseVisualStyleBackColor = true;
 			this->button6->Click += gcnew System::EventHandler(this, &Autorization::button6_Click);
 			// 
@@ -239,7 +239,7 @@ namespace TestProject {
 			this->txtError->Name = L"txtError";
 			this->txtError->Size = System::Drawing::Size(350, 25);
 			this->txtError->TabIndex = 0;
-			this->txtError->Text = L"Неправильный логин или пароль!";
+			this->txtError->Text = L"ГЌГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г«Г®ГЈГЁГ­ ГЁГ«ГЁ ГЇГ Г°Г®Г«Гј!";
 			// 
 			// plError
 			// 
@@ -273,7 +273,7 @@ namespace TestProject {
 			this->button5->Name = L"button5";
 			this->button5->Size = System::Drawing::Size(199, 41);
 			this->button5->TabIndex = 9;
-			this->button5->Text = L"Авторизоваться";
+			this->button5->Text = L"ГЂГўГІГ®Г°ГЁГ§Г®ГўГ ГІГјГ±Гї";
 			this->button5->UseVisualStyleBackColor = true;
 			this->button5->Click += gcnew System::EventHandler(this, &Autorization::button5_Click);
 			// 
@@ -324,7 +324,7 @@ namespace TestProject {
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(116, 33);
 			this->button1->TabIndex = 3;
-			this->button1->Text = L"Показать";
+			this->button1->Text = L"ГЏГ®ГЄГ Г§Г ГІГј";
 			this->button1->UseVisualStyleBackColor = true;
 			this->button1->Click += gcnew System::EventHandler(this, &Autorization::button1_Click);
 			// 
@@ -337,7 +337,7 @@ namespace TestProject {
 			this->label1->Name = L"label1";
 			this->label1->Size = System::Drawing::Size(78, 26);
 			this->label1->TabIndex = 4;
-			this->label1->Text = L"Логин:";
+			this->label1->Text = L"Г‹Г®ГЈГЁГ­:";
 			// 
 			// label2
 			// 
@@ -348,7 +348,7 @@ namespace TestProject {
 			this->label2->Name = L"label2";
 			this->label2->Size = System::Drawing::Size(88, 26);
 			this->label2->TabIndex = 5;
-			this->label2->Text = L"Пароль:";
+			this->label2->Text = L"ГЏГ Г°Г®Г«Гј:";
 			// 
 			// label3
 			// 
@@ -359,7 +359,7 @@ namespace TestProject {
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(257, 45);
 			this->label3->TabIndex = 6;
-			this->label3->Text = L"Авторизация";
+			this->label3->Text = L"ГЂГўГІГ®Г°ГЁГ§Г Г¶ГЁГї";
 			// 
 			// button2
 			// 
@@ -369,7 +369,7 @@ namespace TestProject {
 			this->button2->Name = L"button2";
 			this->button2->Size = System::Drawing::Size(123, 41);
 			this->button2->TabIndex = 7;
-			this->button2->Text = L"Войти";
+			this->button2->Text = L"Г‚Г®Г©ГІГЁ";
 			this->button2->UseVisualStyleBackColor = true;
 			this->button2->Click += gcnew System::EventHandler(this, &Autorization::button2_Click);
 			// 
@@ -381,7 +381,7 @@ namespace TestProject {
 			this->button3->Name = L"button3";
 			this->button3->Size = System::Drawing::Size(200, 41);
 			this->button3->TabIndex = 8;
-			this->button3->Text = L"Регистрирация";
+			this->button3->Text = L"ГђГҐГЈГЁГ±ГІГ°ГЁГ°Г Г¶ГЁГї";
 			this->button3->UseVisualStyleBackColor = true;
 			this->button3->Click += gcnew System::EventHandler(this, &Autorization::button3_Click);
 			// 
@@ -407,7 +407,7 @@ namespace TestProject {
 			this->MaximizeBox = false;
 			this->Name = L"Autorization";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"Моделирование";
+			this->Text = L"ГЊГ®Г¤ГҐГ«ГЁГ°Г®ГўГ Г­ГЁГҐ";
 			this->Load += gcnew System::EventHandler(this, &Autorization::MyForm_Load);
 			this->plError->ResumeLayout(false);
 			this->plError->PerformLayout();
@@ -425,13 +425,13 @@ namespace TestProject {
 	{
 		if (flag) {
 			txtPassword->UseSystemPasswordChar = false;
-			button1->Text = "Скрыть";
+			button1->Text = "Г‘ГЄГ°Г»ГІГј";
 			flag = false;
 		}
 		else
 		{
 			txtPassword->UseSystemPasswordChar = true;
-			button1->Text = "Показать";
+			button1->Text = "ГЏГ®ГЄГ Г§Г ГІГј";
 			flag = true;
 		}
 	}
@@ -441,17 +441,17 @@ namespace TestProject {
 		String^ password = txtPassword->Text;
 		if (!Test::Check(user::login))
 		{
-			txtError->Text = "Логин не может быть меньше 6 символов!";
+			txtError->Text = "Г‹Г®ГЈГЁГ­ Г­ГҐ Г¬Г®Г¦ГҐГІ ГЎГ»ГІГј Г¬ГҐГ­ГјГёГҐ 6 Г±ГЁГ¬ГўГ®Г«Г®Гў!";
 			plError->Visible = true; 
 			return;
 		}
 		if (!Test::Check(password) || password == user::login)
 		{
-			txtError->Text = "Пароль и логин не могут совпадать или быть меньше 6 символов!";
+			txtError->Text = "ГЏГ Г°Г®Г«Гј ГЁ Г«Г®ГЈГЁГ­ Г­ГҐ Г¬Г®ГЈГіГІ Г±Г®ГўГЇГ Г¤Г ГІГј ГЁГ«ГЁ ГЎГ»ГІГј Г¬ГҐГ­ГјГёГҐ 6 Г±ГЁГ¬ГўГ®Г«Г®Гў!";
 			plError->Visible = true; 
 			return;
 		}
-		txtError->Text = "Неправильный логин или пароль!";
+		txtError->Text = "ГЌГҐГЇГ°Г ГўГЁГ«ГјГ­Г»Г© Г«Г®ГЈГЁГ­ ГЁГ«ГЁ ГЇГ Г°Г®Г«Гј!";
 		user::FIO = DataBase::CheckLoginPassword(user::login, password);
 		if (!user::FIO)
 		{
@@ -464,7 +464,9 @@ namespace TestProject {
 		bool check = false;
 		user::rez = DataBase::GetResult(user::login, check);
 		user::autorization = check;
-		this->Close();
+		Theory1^ a = gcnew Theory1();
+		a->Show();
+		this->Hide();
 	}
 	private: System::Void MyForm_Load(System::Object^ sender, System::EventArgs^ e)
 	{
@@ -472,7 +474,7 @@ namespace TestProject {
 	private: System::Void button3_Click(System::Object^ sender, System::EventArgs^ e)
 	{
 		plError->Visible = false;
-		label3->Text = "Регистрация";
+		label3->Text = "ГђГҐГЈГЁГ±ГІГ°Г Г¶ГЁГї";
 		panel1->Height = 272;
 		panel2->Visible = true;
 		panel3->Visible = false;
@@ -480,7 +482,7 @@ namespace TestProject {
 	private: System::Void button5_Click(System::Object^ sender, System::EventArgs^ e)
 	{
 		plError->Visible = false;
-		label3->Text = "Авторизация";
+		label3->Text = "ГЂГўГІГ®Г°ГЁГ§Г Г¶ГЁГї";
 		panel1->Height = 200;
 		panel3->Visible = true;
 		panel2->Visible = false;
@@ -491,29 +493,29 @@ namespace TestProject {
 		String^ password = txtPassword->Text;
 		if (!Test::Check(user::login))
 		{
-			txtError->Text = "Введите логин, длинна которого не меньше 6 символов!";
+			txtError->Text = "Г‚ГўГҐГ¤ГЁГІГҐ Г«Г®ГЈГЁГ­, Г¤Г«ГЁГ­Г­Г  ГЄГ®ГІГ®Г°Г®ГЈГ® Г­ГҐ Г¬ГҐГ­ГјГёГҐ 6 Г±ГЁГ¬ГўГ®Г«Г®Гў!";
 			plError->Visible = true;
 			return;
 		}
 		if (!Test::Check(password))
 		{
-			txtError->Text = "Введите пароль, длинна которого не меньше 6 символов!";
+			txtError->Text = "Г‚ГўГҐГ¤ГЁГІГҐ ГЇГ Г°Г®Г«Гј, Г¤Г«ГЁГ­Г­Г  ГЄГ®ГІГ®Г°Г®ГЈГ® Г­ГҐ Г¬ГҐГ­ГјГёГҐ 6 Г±ГЁГ¬ГўГ®Г«Г®Гў!";
 			plError->Visible = true; 
 			return;
 		}
 		if (password == user::login)
 		{
-			txtError->Text = "Введите пароль, не совпадающий с логином!";
+			txtError->Text = "Г‚ГўГҐГ¤ГЁГІГҐ ГЇГ Г°Г®Г«Гј, Г­ГҐ Г±Г®ГўГЇГ Г¤Г ГѕГ№ГЁГ© Г± Г«Г®ГЈГЁГ­Г®Г¬!";
 			plError->Visible = true;
 			return;
 		}
 		if (txtFam->Text == "" || txtName->Text == "") {
-			txtError->Text = "Введите фамилию и имя!";
+			txtError->Text = "Г‚ГўГҐГ¤ГЁГІГҐ ГґГ Г¬ГЁГ«ГЁГѕ ГЁ ГЁГ¬Гї!";
 			plError->Visible = true;
 			return;
 		}
 		user::FIO = txtFam->Text + " " + txtName->Text;
-		txtError->Text = "Пользователь с таким логином уже существует!";
+		txtError->Text = "ГЏГ®Г«ГјГ§Г®ГўГ ГІГҐГ«Гј Г± ГІГ ГЄГЁГ¬ Г«Г®ГЈГЁГ­Г®Г¬ ГіГ¦ГҐ Г±ГіГ№ГҐГ±ГІГўГіГҐГІ!";
 		if (!DataBase::AddUser(user::login, password, user::FIO))
 		{
 			plError->Visible = true;
@@ -526,7 +528,7 @@ namespace TestProject {
 		txtFam->Clear();
 		txtName->Clear();
 		a->Show();
-		this->Close();
+		this->Hide();
 	}
 
 	private: System::Void button6_Click(System::Object^ sender, System::EventArgs^ e) 
