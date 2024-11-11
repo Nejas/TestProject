@@ -1,0 +1,6 @@
+C:\Users\impar\OneDrive\Рабочий стол\education\Тестовая программа\TestDLL\x64\Debug\TestDLL.vcxproj.AssemblyReference.cache
+C:\Users\impar\OneDrive\Рабочий стол\education\Тестовая программа\TestDLL\x64\Debug\TestDLL.dll
+C:\Users\impar\OneDrive\Рабочий стол\education\Тестовая программа\TestDLL\x64\Debug\TestDLL.vcxproj.ResolveComReference.cache
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestDLL\x64\Debug\TestDLL.vcxproj.AssemblyReference.cache
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestDLL\x64\Debug\TestDLL.vcxproj.ResolveComReference.cache
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestDLL\x64\Debug\TestDLL.dll

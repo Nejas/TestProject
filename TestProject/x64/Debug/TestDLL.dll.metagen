@@ -1,0 +1,36 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly TestDLL, Version=1.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Interop.ADOX.2.8, Version=2.8.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=None, flags=None
+Class TestDLL.DataBase: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    GetResult(String, Boolean* IsImplicitlyDereferenced): PrivateScope, Public, Static, HideBySig
+    CloseDatabase(): PrivateScope, Public, Static, HideBySig
+    CreateDatabase(): PrivateScope, Public, Static, HideBySig
+    CreateTable(): PrivateScope, Public, Static, HideBySig
+    AddUser(String, String, String): PrivateScope, Public, Static, HideBySig
+    CheckLoginPassword(String, String): PrivateScope, Public, Static, HideBySig
+    AddResult(String, Int32*): PrivateScope, Public, Static, HideBySig
+Class TestDLL.Test: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ReadAnswer(CheckBox, CheckBox, CheckBox, CheckBox): PrivateScope, Public, Static, HideBySig
+    Check(String): PrivateScope, Public, Static, HideBySig
+    validation(Object, KeyPressEventArgs): PrivateScope, Public, Static, HideBySig
+    CheckList(ListBox, ListBox, ListBox, ListBox): PrivateScope, Public, Static, HideBySig
+    ReadCheckBox(CheckBox, CheckBox, CheckBox, CheckBox, ListBox): PrivateScope, Public, Static, HideBySig
+    ReadListCheckBox(CheckedListBox): PrivateScope, Public, Static, HideBySig
+    output_mas(Int32*, Int32, DataGridView): PrivateScope, Public, Static, HideBySig
+    Assessment(Int32*, Int32): PrivateScope, Public, Static, HideBySig

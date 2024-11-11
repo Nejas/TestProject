@@ -1,0 +1,24 @@
+﻿  Autorization.cpp
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\Rezult.h(263,47): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+  (компиляция исходного файла "Autorization.cpp")
+  
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\Test10.h(325,66): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  (компиляция исходного файла "Autorization.cpp")
+  
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\Test3.h(325,66): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  (компиляция исходного файла "Autorization.cpp")
+  
+  MyForm.cpp
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\Rezult.h(263,47): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\Test10.h(325,66): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\Test3.h(325,66): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\MyForm.cpp(6,6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TestProject.vcxproj -> C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\x64\Debug\TestProject.exe

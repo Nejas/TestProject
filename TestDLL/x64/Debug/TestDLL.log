@@ -1,0 +1,9 @@
+﻿  TestDLL.cpp
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestDLL\TestDLL.cpp(13,21): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "/TestDLL.cpp")
+  
+C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestDLL\TestDLL.cpp(320,10): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "/TestDLL.cpp")
+  
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TestDLL.vcxproj -> C:\Users\impar\OneDrive\Рабочий стол\Тестовая программа\TestProject\x64\Debug\TestDLL.dll

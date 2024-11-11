@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  TestDLL.cpp
+  Создание кода...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TestDLL.vcxproj -> C:\Users\impar\OneDrive\Рабочий стол\education\Тестовая программа\TestDLL\x64\Debug\TestDLL.dll
